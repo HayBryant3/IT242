@@ -1,0 +1,10 @@
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.exe
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.deps.json
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.runtimeconfig.json
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.runtimeconfig.dev.json
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.dll
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\bin\Debug\netcoreapp3.1\ExtraCredit.pdb
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.AssemblyInfoInputs.cache
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.AssemblyInfo.cs
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.dll
+C:\Users\Hailee\source\IT242\IT242\Chapter5\ExtraCredit\ExtraCredit\obj\Debug\netcoreapp3.1\ExtraCredit.pdb

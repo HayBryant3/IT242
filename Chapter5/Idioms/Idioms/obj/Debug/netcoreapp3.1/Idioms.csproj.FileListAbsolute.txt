@@ -1,0 +1,10 @@
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.exe
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.deps.json
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.runtimeconfig.json
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.runtimeconfig.dev.json
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.dll
+C:\Users\Hailee\source\repos\Idioms\Idioms\bin\Debug\netcoreapp3.1\Idioms.pdb
+C:\Users\Hailee\source\repos\Idioms\Idioms\obj\Debug\netcoreapp3.1\Idioms.AssemblyInfoInputs.cache
+C:\Users\Hailee\source\repos\Idioms\Idioms\obj\Debug\netcoreapp3.1\Idioms.AssemblyInfo.cs
+C:\Users\Hailee\source\repos\Idioms\Idioms\obj\Debug\netcoreapp3.1\Idioms.dll
+C:\Users\Hailee\source\repos\Idioms\Idioms\obj\Debug\netcoreapp3.1\Idioms.pdb
