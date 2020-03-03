@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban Planner\\Urban Planner\\Urban Planner.csproj": {}
+    "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban_Planner2\\Urban_Planner2\\Urban_Planner2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban Planner\\Urban Planner\\Urban Planner.csproj": {
+    "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban_Planner2\\Urban_Planner2\\Urban_Planner2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban Planner\\Urban Planner\\Urban Planner.csproj",
-        "projectName": "Urban Planner",
-        "projectPath": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban Planner\\Urban Planner\\Urban Planner.csproj",
+        "projectUniqueName": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban_Planner2\\Urban_Planner2\\Urban_Planner2.csproj",
+        "projectName": "Urban_Planner2",
+        "projectPath": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban_Planner2\\Urban_Planner2\\Urban_Planner2.csproj",
         "packagesPath": "C:\\Users\\Hailee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban Planner\\Urban Planner\\obj\\",
+        "outputPath": "C:\\Users\\Hailee\\source\\IT242\\IT242\\Chapter6\\Urban_Planner2\\Urban_Planner2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hailee\\AppData\\Roaming\\NuGet\\NuGet.Config",
