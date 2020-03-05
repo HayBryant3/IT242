@@ -1,0 +1,11 @@
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.exe
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.deps.json
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.json
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.dev.json
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.dll
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\bin\Debug\netcoreapp3.1\Final.pdb
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\obj\Debug\netcoreapp3.1\Final.csprojAssemblyReference.cache
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\obj\Debug\netcoreapp3.1\Final.dll
+C:\Users\Hailee\source\IT242\IT242\Chapter7\Final\Final\obj\Debug\netcoreapp3.1\Final.pdb
